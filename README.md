@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=e49797&height=170&section=header&fontSize=50&animation=fadeIn)
 # HI~ 🙂  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjihyoun&count_bg=%23FF9494&title_bg=%23464646&icon=googlekeep.svg&icon_color=%23FF9F9F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## I'm PARKJIHYOUN
+#### I'm PARKJIHYOUN
 ### 💪Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black)
 
-
+###
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjihyoun&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjihyoun&layout=compact&theme=dracula)
 
