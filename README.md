@@ -4,10 +4,13 @@
 ### 💪Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ###
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjihyoun&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjihyoun&layout=compact&theme=dracula)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjihyoun&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjihyoun&layout=compact)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jihyoun2002)](https://solved.ac/jihyoun2002)
 
