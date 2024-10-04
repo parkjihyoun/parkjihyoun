@@ -1,12 +1,6 @@
 
 ### I'm PARKJIHYOUN 😁  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkjihyoun&count_bg=%23FF9494&title_bg=%23464646&icon=googlekeep.svg&icon_color=%23FF9F9F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 💪Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ###
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjihyoun&show_icons=true) 
