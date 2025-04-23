@@ -34,7 +34,6 @@
 
 
 <!-- Contact -->
-<h3 align="center">📬 연락해요! 📬</h3>
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://velog.io/@parkjihyoun/posts">
