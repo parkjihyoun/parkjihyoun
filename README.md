@@ -1,8 +1,3 @@
-<!-- 감성 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=220&section=header&text=✨%20Hi%2C%20I'm%20Jihyoun✨%20&fontSize=40&fontAlignY=35&desc=KNU%20ComputerScience&descAlignY=55&animation=twinkling" />
-
-<!-- 소개 한 줄 -->
-<h3 align="center">꾸준히 성장하는 개발자, 박지현입니다 </h3>
 
 <!-- 깃허브 스탯 -->
 <p align="center">
